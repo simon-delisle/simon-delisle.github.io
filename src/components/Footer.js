@@ -65,27 +65,6 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='social-icons'>
             
-              <Link
-                class='social-icon-link twitter'
-                to='/'
-                target='_blank'
-                aria-label='LinkedIn'
-              >
-                <a href='https://www.linkedin.com/in/simon-delisle/'>
-                  <i class='fab fa-linkedin' />
-                </a>
-              </Link>
-            
-            <Link
-              class='social-icon-link twitter'
-              to='/'
-              target='_blank'
-              aria-label='LinkedIn'
-            >
-              <a href='https://github.com/simon-delisle'>
-                <i class='fab fa-github' />
-              </a>
-            </Link>
           </div>
         </div>
       </section>
