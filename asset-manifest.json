@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.db1277f1.chunk.css",
-    "main.js": "/static/js/main.fb3bb7da.chunk.js",
-    "main.js.map": "/static/js/main.fb3bb7da.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.bafa1c04.chunk.js": "/static/js/2.bafa1c04.chunk.js",
-    "static/js/2.bafa1c04.chunk.js.map": "/static/js/2.bafa1c04.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f8bf32a5297de1d625d5d2d2b64b0225.js": "/precache-manifest.f8bf32a5297de1d625d5d2d2b64b0225.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.db1277f1.chunk.css.map": "/static/css/main.db1277f1.chunk.css.map",
-    "static/js/2.bafa1c04.chunk.js.LICENSE.txt": "/static/js/2.bafa1c04.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/img-8.d211c298.jpg"
+    "main.css": "/simon-delisle.github.io/static/css/main.683aaa09.chunk.css",
+    "main.js": "/simon-delisle.github.io/static/js/main.fb3bb7da.chunk.js",
+    "main.js.map": "/simon-delisle.github.io/static/js/main.fb3bb7da.chunk.js.map",
+    "runtime-main.js": "/simon-delisle.github.io/static/js/runtime-main.f046df15.js",
+    "runtime-main.js.map": "/simon-delisle.github.io/static/js/runtime-main.f046df15.js.map",
+    "static/js/2.bafa1c04.chunk.js": "/simon-delisle.github.io/static/js/2.bafa1c04.chunk.js",
+    "static/js/2.bafa1c04.chunk.js.map": "/simon-delisle.github.io/static/js/2.bafa1c04.chunk.js.map",
+    "index.html": "/simon-delisle.github.io/index.html",
+    "precache-manifest.505aa9b4f5e7b5e8b8f553e7727c465b.js": "/simon-delisle.github.io/precache-manifest.505aa9b4f5e7b5e8b8f553e7727c465b.js",
+    "service-worker.js": "/simon-delisle.github.io/service-worker.js",
+    "static/css/main.683aaa09.chunk.css.map": "/simon-delisle.github.io/static/css/main.683aaa09.chunk.css.map",
+    "static/js/2.bafa1c04.chunk.js.LICENSE.txt": "/simon-delisle.github.io/static/js/2.bafa1c04.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/simon-delisle.github.io/static/media/img-8.d211c298.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ba1596e.js",
+    "static/js/runtime-main.f046df15.js",
     "static/js/2.bafa1c04.chunk.js",
-    "static/css/main.db1277f1.chunk.css",
+    "static/css/main.683aaa09.chunk.css",
     "static/js/main.fb3bb7da.chunk.js"
   ]
 }
