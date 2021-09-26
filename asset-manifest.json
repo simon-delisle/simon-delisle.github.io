@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/simon-delisle.github.io/static/css/main.683aaa09.chunk.css",
-    "main.js": "/simon-delisle.github.io/static/js/main.fb3bb7da.chunk.js",
-    "main.js.map": "/simon-delisle.github.io/static/js/main.fb3bb7da.chunk.js.map",
-    "runtime-main.js": "/simon-delisle.github.io/static/js/runtime-main.f046df15.js",
-    "runtime-main.js.map": "/simon-delisle.github.io/static/js/runtime-main.f046df15.js.map",
-    "static/js/2.bafa1c04.chunk.js": "/simon-delisle.github.io/static/js/2.bafa1c04.chunk.js",
-    "static/js/2.bafa1c04.chunk.js.map": "/simon-delisle.github.io/static/js/2.bafa1c04.chunk.js.map",
-    "index.html": "/simon-delisle.github.io/index.html",
-    "precache-manifest.505aa9b4f5e7b5e8b8f553e7727c465b.js": "/simon-delisle.github.io/precache-manifest.505aa9b4f5e7b5e8b8f553e7727c465b.js",
-    "service-worker.js": "/simon-delisle.github.io/service-worker.js",
-    "static/css/main.683aaa09.chunk.css.map": "/simon-delisle.github.io/static/css/main.683aaa09.chunk.css.map",
-    "static/js/2.bafa1c04.chunk.js.LICENSE.txt": "/simon-delisle.github.io/static/js/2.bafa1c04.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/simon-delisle.github.io/static/media/img-8.d211c298.jpg"
+    "main.css": "/http://simon-delisle.github.io/static/css/main.3f3c0345.chunk.css",
+    "main.js": "/http://simon-delisle.github.io/static/js/main.fb3bb7da.chunk.js",
+    "main.js.map": "/http://simon-delisle.github.io/static/js/main.fb3bb7da.chunk.js.map",
+    "runtime-main.js": "/http://simon-delisle.github.io/static/js/runtime-main.745aec66.js",
+    "runtime-main.js.map": "/http://simon-delisle.github.io/static/js/runtime-main.745aec66.js.map",
+    "static/js/2.bafa1c04.chunk.js": "/http://simon-delisle.github.io/static/js/2.bafa1c04.chunk.js",
+    "static/js/2.bafa1c04.chunk.js.map": "/http://simon-delisle.github.io/static/js/2.bafa1c04.chunk.js.map",
+    "index.html": "/http://simon-delisle.github.io/index.html",
+    "precache-manifest.ab7218e77c5e06f6860f1cd570c01d90.js": "/http://simon-delisle.github.io/precache-manifest.ab7218e77c5e06f6860f1cd570c01d90.js",
+    "service-worker.js": "/http://simon-delisle.github.io/service-worker.js",
+    "static/css/main.3f3c0345.chunk.css.map": "/http://simon-delisle.github.io/static/css/main.3f3c0345.chunk.css.map",
+    "static/js/2.bafa1c04.chunk.js.LICENSE.txt": "/http://simon-delisle.github.io/static/js/2.bafa1c04.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/http://simon-delisle.github.io/static/media/img-8.d211c298.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f046df15.js",
+    "static/js/runtime-main.745aec66.js",
     "static/js/2.bafa1c04.chunk.js",
-    "static/css/main.683aaa09.chunk.css",
+    "static/css/main.3f3c0345.chunk.css",
     "static/js/main.fb3bb7da.chunk.js"
   ]
 }
