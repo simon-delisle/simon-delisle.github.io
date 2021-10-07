@@ -10,9 +10,9 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-12.jpg'
-              text='A Dash Application to Vizualize up to Date Price and Social Media Activity related to Popular Cryptocurrencies.'
-              label='Data Scaping  ||   Dash  ||  Bootstrap  ||  Plotly  ||  EDA'
+              src='images/california_housing.jpg'
+              text='Estimate California Housing Price - Part 1 - Developing a Model.'
+              label='EDA  ||  Feature Engineering  ||  scikit-learn'
               path='https://crypto--dashboard.herokuapp.com/'
             />
             <CardItem
