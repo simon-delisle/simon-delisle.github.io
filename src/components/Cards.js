@@ -16,6 +16,12 @@ function Cards() {
               path='https://crypto--dashboard.herokuapp.com/'
             />
             <CardItem
+              src='images/california_housing.jpg'
+              text='Estimate California Housing Price - Part 2 - Simple App.'
+              label='Streamlit  ||  Model Explainability'
+              path='https://crypto--dashboard.herokuapp.com/'
+            />
+            <CardItem
               src='images/img-12.jpg'
               text='A Dash Application to Vizualize up to Date Price and Social Media Activity related to Popular Cryptocurrencies.'
               label='Data Scaping  ||   Dash  ||  Bootstrap  ||  Plotly  ||  EDA'
