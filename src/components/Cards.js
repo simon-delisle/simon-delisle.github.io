@@ -41,12 +41,6 @@ function Cards() {
               label='Statistics'
               path='https://nbviewer.jupyter.org/github/simon-delisle/Statistical-Experiments-and-Signficance-Testing/blob/main/Script.ipynb'
             />
-            <CardItem
-              src='images/img-8.jpg'
-              text='Play my Stealth Game (still a draft).'
-              label='Game Development'
-              path='/sign-up'
-            />
           </ul>
         </div>
       </div>
