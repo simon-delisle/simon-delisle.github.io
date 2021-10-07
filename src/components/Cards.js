@@ -16,6 +16,12 @@ function Cards() {
               path='https://crypto--dashboard.herokuapp.com/'
             />
             <CardItem
+              src='images/img-12.jpg'
+              text='A Dash Application to Vizualize up to Date Price and Social Media Activity related to Popular Cryptocurrencies.'
+              label='Data Scaping  ||   Dash  ||  Bootstrap  ||  Plotly  ||  EDA'
+              path='https://crypto--dashboard.herokuapp.com/'
+            />
+            <CardItem
               src='images/img-13.jpg'
               text='Moneyball - A Brief Description of the Moneyball Strategy Popularised in the Book and Movie of the same Name.'
               label='Data Mining  ||  Data Preprocessing ||  EDA  ||  Storytelling'
