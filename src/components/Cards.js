@@ -11,14 +11,8 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/california_housing.jpg'
-              text='Estimate California Housing Price - Part 1 - Developing a Model.'
-              label='EDA  ||  Feature Engineering  ||  scikit-learn'
-              path='https://crypto--dashboard.herokuapp.com/'
-            />
-            <CardItem
-              src='images/california_housing.jpg'
-              text='Estimate California Housing Price - Part 2 - Simple App.'
-              label='Streamlit  ||  Model Explainability'
+              text='Estimation of the Median Housing Price in California Districts.'
+              label='EDA  ||  Feature Engineering  ||  Model Explainability'
               path='https://crypto--dashboard.herokuapp.com/'
             />
             <CardItem
