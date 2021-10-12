@@ -13,7 +13,7 @@ function Cards() {
               src='images/california_housing.jpg'
               text='Estimation of the Median Housing Price in California Districts.'
               label='EDA  ||  Feature Engineering  ||  Model Explainability'
-              path='https://crypto--dashboard.herokuapp.com/'
+              path='https://github.com/simon-delisle/District-Real-Estate'
             />
             <CardItem
               src='images/img-12.jpg'
