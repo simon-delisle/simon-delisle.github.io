@@ -12,7 +12,7 @@ function Cards() {
             <CardItem
               src='images/california_housing.jpg'
               text='Estimation of the Median Housing Price in California Districts.'
-              label='EDA  ||  Feature Engineering  ||  Model Explainability'
+              label='EDA  ||  Feature Engineering  ||  Machine Learning'
               path='https://github.com/simon-delisle/District-Real-Estate'
             />
             <CardItem
