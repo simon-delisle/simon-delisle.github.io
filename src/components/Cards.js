@@ -13,7 +13,7 @@ function Cards() {
               src='images/tradingBot.jpg'
               text='[In Progress] A Profitable Crypto Trading Bot.'
               label='EDA  ||  Time-Series Analysis  ||  Backtesting'
-              path='https://github.com/simon-delisle/District-Real-Estate'
+              path='https://github.com/simon-delisle/Crypto-Trading-Bot'
             />
             <CardItem
               src='images/california_housing.jpg'
