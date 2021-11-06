@@ -27,14 +27,15 @@ function Cards() {
               label='Data Scaping  ||   Dash  ||  Bootstrap  ||  Plotly  ||  EDA'
               path='https://crypto--dashboard.herokuapp.com/'
             />
+
+          </ul>
+          <ul className='cards__items'>
             <CardItem
               src='images/img-13.jpg'
               text='Moneyball - A Brief Description of the Moneyball Strategy Popularised in the Book and Movie of the same Name.'
               label='Data Mining  ||  Data Preprocessing ||  EDA  ||  Storytelling'
               path='https://moneyball2002.herokuapp.com/'
             />
-          </ul>
-          <ul className='cards__items'>
             <CardItem
               src='images/AI_TicTacToe.jpg'
               text='Play Against my Unbeatable Tic-tac-toe Bot and Vizualize its Decision Process.'
