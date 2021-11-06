@@ -10,7 +10,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/tradingBot.jpg'
+              src='images/trading.jpg'
               text='[In Progress] A Profitable Crypto Trading Bot.'
               label='EDA  ||  Time-Series Analysis  ||  Backtesting'
               path='https://github.com/simon-delisle/District-Real-Estate'
