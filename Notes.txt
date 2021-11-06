@@ -1,51 +1,8 @@
-          <div className='menu-icon' onClick={handleClick}>
-            <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
-          </div>
-          <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-            <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
-                Home
-              </Link>
-            </li>
-            <li className='nav-item'>
-              <Link
-                to='/aboutme'
-                className='nav-links'
-                onClick={closeMobileMenu}
-              >
-                About Me
-              </Link>
-            </li>
-            <li className='nav-item'>
-              <Link
-                to='/projects'
-                className='nav-links'
-                onClick={closeMobileMenu}
-              >
-                Projects
-              </Link>
-            </li>
-            <li className='nav-item'>
-              <Link
-                to='/resume'
-                className='nav-links'
-                onClick={closeMobileMenu}
-              >
-                Resume
-              </Link>
-            </li>
-
-            <li>
-              <Link
-                to='/contactme'
-                className='nav-links-mobile'
-                onClick={closeMobileMenu}
-              >
-                Contact Me
-              </Link>
-            </li>
-            <li className='nav-item'>
-
-            </li>
-          </ul>
-        </div>
+# redeploy instructions to terminal
+git init
+git remote add origin git@github.com:simon-delisle/simon-delisle.github.io.git
+git add .
+git commit -m "update-redeploy"
+npm run deploy
+git push -u origin main
+go to github main page, repo, settings, github pages, click on url 

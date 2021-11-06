@@ -10,6 +10,12 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
+              src='images/tradingBot.jpg'
+              text='[In Progress] A Profitable Crypto Trading Bot.'
+              label='EDA  ||  Time-Series Analysis  ||  Backtesting'
+              path='https://github.com/simon-delisle/District-Real-Estate'
+            />
+            <CardItem
               src='images/california_housing.jpg'
               text='Estimation of the Median Housing Price in California Districts.'
               label='EDA  ||  Feature Engineering  ||  Machine Learning'
